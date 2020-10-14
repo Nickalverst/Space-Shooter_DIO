@@ -9,3 +9,9 @@ Para visualizar a demonstração acima em alta resolução (até 1080p), [clique
 "Nesse projeto, o desafio será criar um Space Shooter utilizando HTML, CSS e Javascript. Aprenderemos juntos a trabalhar com posicionamento no CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array."
 ## Como jogar
 Para iniciar o jogo basta executar o arquivo index.html em um navegador de internet a partir de uma cópia do repositório em um diretório local.
+### Controles
+| Comando                            |         Tecla        |
+|------------------------------------|:--------------------:|
+| Mover nave para cima               |   "Seta para cima"   |
+| Disparar                           |   "Barra de espaço"  |
+| Mover nave para baixo              |   "Seta para baixo"  |
